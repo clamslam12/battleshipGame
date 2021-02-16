@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/clamslam12/Desktop/CLion_Projects/battleship_game/main.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+ctime
+-
+
